@@ -1,1 +1,6 @@
-Flask==2.3.3
+flask
+flask_cors
+python-whois
+requests
+beautifulsoup4
+gunicorn
